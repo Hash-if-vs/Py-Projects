@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/250640668065555445/51be306305fc493bb7939cb7db2bc9b3/artifacts
+end_time: 1682436286306
+entry_point_name: ''
+experiment_id: '250640668065555445'
+lifecycle_stage: active
+run_id: 51be306305fc493bb7939cb7db2bc9b3
+run_name: Gradient Boosting Regressor
+run_uuid: 51be306305fc493bb7939cb7db2bc9b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682436286144
+status: 3
+tags: []
+user_id: Hashif

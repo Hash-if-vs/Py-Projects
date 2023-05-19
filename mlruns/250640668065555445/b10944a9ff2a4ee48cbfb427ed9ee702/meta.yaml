@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/250640668065555445/b10944a9ff2a4ee48cbfb427ed9ee702/artifacts
+end_time: 1682436192336
+entry_point_name: ''
+experiment_id: '250640668065555445'
+lifecycle_stage: active
+run_id: b10944a9ff2a4ee48cbfb427ed9ee702
+run_name: AdaBoost Regressor
+run_uuid: b10944a9ff2a4ee48cbfb427ed9ee702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682436192182
+status: 3
+tags: []
+user_id: Hashif

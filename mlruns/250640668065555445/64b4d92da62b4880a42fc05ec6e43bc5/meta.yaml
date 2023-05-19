@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/250640668065555445/64b4d92da62b4880a42fc05ec6e43bc5/artifacts
+end_time: 1682436283513
+entry_point_name: ''
+experiment_id: '250640668065555445'
+lifecycle_stage: active
+run_id: 64b4d92da62b4880a42fc05ec6e43bc5
+run_name: Ridge Regression
+run_uuid: 64b4d92da62b4880a42fc05ec6e43bc5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682436283372
+status: 3
+tags: []
+user_id: Hashif

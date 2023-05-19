@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/f57ca69b06554978bd816f8a760b9039/artifacts
+end_time: 1682357276229
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: f57ca69b06554978bd816f8a760b9039
+run_name: Lasso Least Angle Regression
+run_uuid: f57ca69b06554978bd816f8a760b9039
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682357276090
+status: 3
+tags: []
+user_id: Hashif

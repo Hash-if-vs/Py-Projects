@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/e8a0d24dccd64514bc64789e72f046cc/artifacts
+end_time: 1682358507305
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: e8a0d24dccd64514bc64789e72f046cc
+run_name: Extra Trees Regressor
+run_uuid: e8a0d24dccd64514bc64789e72f046cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682358507154
+status: 3
+tags: []
+user_id: Hashif

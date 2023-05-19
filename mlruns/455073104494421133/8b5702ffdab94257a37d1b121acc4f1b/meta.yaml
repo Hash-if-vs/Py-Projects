@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/8b5702ffdab94257a37d1b121acc4f1b/artifacts
+end_time: 1682358510363
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: 8b5702ffdab94257a37d1b121acc4f1b
+run_name: Dummy Regressor
+run_uuid: 8b5702ffdab94257a37d1b121acc4f1b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682358510236
+status: 3
+tags: []
+user_id: Hashif

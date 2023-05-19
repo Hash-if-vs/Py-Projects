@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/250640668065555445/b895bd6c16554d00807fdeae43ed747e/artifacts
+end_time: 1682436286607
+entry_point_name: ''
+experiment_id: '250640668065555445'
+lifecycle_stage: active
+run_id: b895bd6c16554d00807fdeae43ed747e
+run_name: Light Gradient Boosting Machine
+run_uuid: b895bd6c16554d00807fdeae43ed747e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682436286427
+status: 3
+tags: []
+user_id: Hashif

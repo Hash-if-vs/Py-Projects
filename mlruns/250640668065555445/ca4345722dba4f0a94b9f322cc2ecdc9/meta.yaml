@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/250640668065555445/ca4345722dba4f0a94b9f322cc2ecdc9/artifacts
+end_time: 1682436190519
+entry_point_name: ''
+experiment_id: '250640668065555445'
+lifecycle_stage: active
+run_id: ca4345722dba4f0a94b9f322cc2ecdc9
+run_name: Linear Regression
+run_uuid: ca4345722dba4f0a94b9f322cc2ecdc9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682436189995
+status: 3
+tags: []
+user_id: Hashif

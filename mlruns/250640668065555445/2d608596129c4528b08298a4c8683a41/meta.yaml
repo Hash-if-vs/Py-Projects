@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/250640668065555445/2d608596129c4528b08298a4c8683a41/artifacts
+end_time: 1682436284409
+entry_point_name: ''
+experiment_id: '250640668065555445'
+lifecycle_stage: active
+run_id: 2d608596129c4528b08298a4c8683a41
+run_name: Huber Regressor
+run_uuid: 2d608596129c4528b08298a4c8683a41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682436284260
+status: 3
+tags: []
+user_id: Hashif

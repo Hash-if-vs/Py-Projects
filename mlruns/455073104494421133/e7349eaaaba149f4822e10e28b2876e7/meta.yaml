@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/e7349eaaaba149f4822e10e28b2876e7/artifacts
+end_time: 1682357275515
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: e7349eaaaba149f4822e10e28b2876e7
+run_name: K Neighbors Regressor
+run_uuid: e7349eaaaba149f4822e10e28b2876e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1682357275376
+status: 3
+tags: []
+user_id: Hashif
