@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/a4c44384337a43028da1a172a0955ae7/artifacts
+end_time: 1685986812076
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: a4c44384337a43028da1a172a0955ae7
+run_name: Passive Aggressive Regressor
+run_uuid: a4c44384337a43028da1a172a0955ae7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986811898
+status: 3
+tags: []
+user_id: Hashif

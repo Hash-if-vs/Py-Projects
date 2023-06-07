@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/ab8e807a80c04c4196177cddb4a57627/artifacts
+end_time: 1685986974005
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: ab8e807a80c04c4196177cddb4a57627
+run_name: Decision Tree Regressor
+run_uuid: ab8e807a80c04c4196177cddb4a57627
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986973843
+status: 3
+tags: []
+user_id: Hashif

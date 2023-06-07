@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/4e37f29e7fd844128a7ad2a4de58ca88/artifacts
+end_time: 1685986972279
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: 4e37f29e7fd844128a7ad2a4de58ca88
+run_name: Least Angle Regression
+run_uuid: 4e37f29e7fd844128a7ad2a4de58ca88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986972095
+status: 3
+tags: []
+user_id: Hashif

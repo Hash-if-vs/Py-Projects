@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/aa9e37c937ca49ca849f18580b70e862/artifacts
+end_time: 1685986876468
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: aa9e37c937ca49ca849f18580b70e862
+run_name: Orthogonal Matching Pursuit
+run_uuid: aa9e37c937ca49ca849f18580b70e862
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986876294
+status: 3
+tags: []
+user_id: Hashif

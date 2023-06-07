@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/c60d4720874f496b970771b1acfcafdb/artifacts
+end_time: 1685986876791
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: c60d4720874f496b970771b1acfcafdb
+run_name: Elastic Net
+run_uuid: c60d4720874f496b970771b1acfcafdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986876617
+status: 3
+tags: []
+user_id: Hashif

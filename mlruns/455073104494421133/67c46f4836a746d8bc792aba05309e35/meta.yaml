@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/67c46f4836a746d8bc792aba05309e35/artifacts
+end_time: 1685986968368
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: 67c46f4836a746d8bc792aba05309e35
+run_name: Random Forest Regressor
+run_uuid: 67c46f4836a746d8bc792aba05309e35
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986968024
+status: 3
+tags: []
+user_id: Hashif

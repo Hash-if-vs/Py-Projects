@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/4e115cf3cfb54fc6a081afc63a2f1fe2/artifacts
+end_time: 1686160611931
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: 4e115cf3cfb54fc6a081afc63a2f1fe2
+run_name: Session Initialized d4b3
+run_uuid: 4e115cf3cfb54fc6a081afc63a2f1fe2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686160544271
+status: 3
+tags: []
+user_id: Hashif

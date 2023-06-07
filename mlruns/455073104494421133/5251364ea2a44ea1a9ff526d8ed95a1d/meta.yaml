@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hashif/Downloads/Python%20Projects/mlruns/455073104494421133/5251364ea2a44ea1a9ff526d8ed95a1d/artifacts
+end_time: 1685986810866
+entry_point_name: ''
+experiment_id: '455073104494421133'
+lifecycle_stage: active
+run_id: 5251364ea2a44ea1a9ff526d8ed95a1d
+run_name: Bayesian Ridge
+run_uuid: 5251364ea2a44ea1a9ff526d8ed95a1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1685986810709
+status: 3
+tags: []
+user_id: Hashif
